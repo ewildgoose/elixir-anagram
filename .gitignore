@@ -1,0 +1,8 @@
+.DS_Store
+/_build
+/cover
+/deps
+erl_crash.dump
+*.ez
+/bench/snapshots
+/bench/graphs
